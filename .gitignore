@@ -1,0 +1,3 @@
+/target
+src/hidden_gpt.rs
+src/.env
